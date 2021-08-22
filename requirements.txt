@@ -3,7 +3,6 @@ affine==2.3.0
 argh==0.26.2
 cachetools==4.2.2
 caer==1.9.8
-certifi==2020.12.5
 chardet==4.0.0
 click-plugins==1.1.1
 cligj==0.7.1
@@ -12,12 +11,6 @@ descartes==1.1.0
 entrypoints==0.3
 import-ipynb==0.1.3
 isort==5.7.0
-mccabe==0.6.1
-mkl-service==2.3.0
-munch==2.5.0
-mypy==0.812
-mypy-extensions==0.4.3
-olefile==0.46
 opencv-contrib-python==4.5.1.48
 opencv-python==4.5.1.48
 tensorboard==2.5.0
