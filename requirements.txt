@@ -11,8 +11,6 @@ certifi==2020.12.5
 chardet==4.0.0
 click-plugins==1.1.1
 cligj==0.7.1
-clyent==1.2.2
-colorama==0.4.4
 cycler==0.10.0
 descartes==1.1.0
 ddoc==0.1.0
